@@ -1,5 +1,0 @@
-cancer r script.R
-hist(data$male)
-hist(data$female)
-plot(data)
-ts.plot
